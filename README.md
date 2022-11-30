@@ -4,7 +4,7 @@ Nqmah kakvo da pravq otnovo
 # How to install
 ```
 git clone https://github.com/AlexOgn/MYX_python.git
-pip -r requirements.txt
+pip install -r requirements.txt
 python app.py
 ```
 
